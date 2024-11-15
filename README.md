@@ -2,7 +2,7 @@
 #### I like making stuff that are making my day easier
 ![I like making stuff that are making my day easier](https://www.meme-arsenal.com/memes/7983ef1f119ac3adc7b915b222121cce.jpg)
 
-Sadly, until I make them I 'll have to stuggle a bit.(where "a bit" is *a bit* subjuctive term in my case)
+Sadly, until I make them I 'll have to stuggle a bit.(where "a bit" is *a bit* of a subjuctive term in my case)
 
 Skills: RUST / MATLAB / HTML / CSS / JS
 
